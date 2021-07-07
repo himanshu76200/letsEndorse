@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Frontend commits @letsEndorse
 
-You can use the [editor on GitHub](https://github.com/himanshu76200/letsEndorse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Created Map component that allows user to select the zone on the map and save related Informations.
+![1](https://user-images.githubusercontent.com/62508572/124715210-5b618f80-df20-11eb-9a40-61fb1839e65f.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Added feature to add the details through both form and maps.
+![2](https://user-images.githubusercontent.com/62508572/124715339-84822000-df20-11eb-93d4-d958856b73dc.png)
 
-### Markdown
+### Fixed a bug which was allowing the two zones to overlap && sending duplicate info to the APIS.
+![3](https://user-images.githubusercontent.com/62508572/124715494-b09da100-df20-11eb-92cb-e7af607a045c.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Backend commits @letsEndorse
 
-```markdown
-Syntax highlighted code block
+### Created Schema and controllers to add zones and cities.
+![image](https://user-images.githubusercontent.com/62508572/124715919-21dd5400-df21-11eb-8c08-c28bdab80d3f.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Added endpoints required by other modules.
+![backend](https://user-images.githubusercontent.com/62508572/124716141-594c0080-df21-11eb-9694-33f7d88b186b.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/himanshu76200/letsEndorse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### updated schema and controllers.
+![image](https://user-images.githubusercontent.com/62508572/124715762-f5293c80-df20-11eb-81b5-ff45ff526afa.png)
